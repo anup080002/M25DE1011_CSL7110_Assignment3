@@ -1,3 +1,16 @@
 data/
 __pycache__/
 .ipynb_checkpoints/
+
+*.py[cod]
+*.pyo
+*.pyd
+*.nbconvert.ipynb
+
+.python-version
+.venv/
+venv/
+env/
+
+.mypy_cache/
+.pytest_cache/
